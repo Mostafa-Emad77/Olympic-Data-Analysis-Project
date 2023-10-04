@@ -1,7 +1,4 @@
 # Olympic Data Analysis Project
-
-![Olympic Rings](link_to_image)
-
 Welcome to the Olympic Data Analysis Project! In this repository, we explore and analyze Olympic data to gain valuable insights into the history, trends, and performance of athletes and countries in the Olympic Games.
 
 ## Table of Contents
